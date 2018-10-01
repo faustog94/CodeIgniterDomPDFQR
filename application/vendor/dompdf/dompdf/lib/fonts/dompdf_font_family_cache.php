@@ -80,4 +80,7 @@
   'montserrat' => array(
     'normal' => $fontDir . '\1c936692b5cb67672ef86e5745ed7c0b',
   ),
+  'muli' => array(
+    'italic' => $fontDir . '\0c31e2b705d67c3825d4efa97f4c7ae5',
+  ),
 ) ?>
